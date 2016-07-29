@@ -16,3 +16,6 @@ D:\Arch_Slavik\OneDrive\C# cource\Folder synchronizer\FolderSynchronizer\FileSyn
 D:\Arch_Slavik\OneDrive\C# cource\Folder synchronizer\FolderSynchronizer\FileSynchronizer\obj\Debug\FolderSynchronizer.FolderSynchronizerForm.resources
 D:\Arch_Slavik\OneDrive\C# cource\Folder synchronizer\FolderSynchronizer\FileSynchronizer\obj\Debug\FileSynchronizer.Properties.Resources.resources
 D:\Arch_Slavik\OneDrive\C# cource\Folder synchronizer\FolderSynchronizer\FileSynchronizer\obj\Debug\FolderSynchronizer.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\FolderSynchronizer\FolderSynchronizer\FileSynchronizer\bin\Debug\FileSynchronizer.exe.config
+C:\Users\admin\Source\Repos\FolderSynchronizer\FolderSynchronizer\FileSynchronizer\obj\Debug\FileSynchronizer.exe
+C:\Users\admin\Source\Repos\FolderSynchronizer\FolderSynchronizer\FileSynchronizer\obj\Debug\FileSynchronizer.pdb

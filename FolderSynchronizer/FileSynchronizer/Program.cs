@@ -19,4 +19,5 @@ namespace FolderSynchronizer
             Application.Run(new FolderSynchronizerForm());
         }
     }
+    //dsrgsgfdsfg
 }
